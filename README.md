@@ -59,3 +59,12 @@ I risultati tipici includono tre valori: **Download**, **Upload** e **Ping**. Se
 | **Prima di cambiare provider** | Confrontare le velocità offerte da diversi ISP nella propria zona. |
 | **Reclamo all’ISP** | Fornire dati oggettivi (download/upload/ping) per supportare la richiesta. |
 | **Ottimizzazione della rete** | Identificare colli di bottiglia e valutare l’impatto di eventuali upgrade hardware o configurazioni. |
+
+---
+
+## Profilo Utente – Anto  
+
+- **Nome**: Anto (fornito nella conversazione del 10 luglio 2026).  
+- **Informazioni note**: Nessun altro dato personale è stato condiviso finora.  
+- **Stato della conoscenza**: L’assistente non possiede ulteriori dettagli su preferenze, contatti, o cronologia di utilizzo.  
+- **Azioni future consigliate**: Se desideri che l’assistente ricordi ulteriori informazioni (es. interessi, scadenze, progetti), forniscile esplicitamente; verranno aggiunte in questa sezione mantenendo la coerenza cronologica.
